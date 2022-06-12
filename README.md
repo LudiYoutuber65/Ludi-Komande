@@ -1,8 +1,6 @@
 # RP-Komande
--Ovo su početne komande koje trebaju jednom serveru
--Imaju sistem dužnosti kao i logove za discord
--Imate tu svakakve komande
--Ovo je objavljeno na sokac leaks ali sam odlučio lično da objavim na github
+-Ovo su početne komande koje trebaju jednom serveru -Imaju sistem dužnosti kao i logove za discord -Imate tu svakakve komande -Ovo je objavljeno na sokac leaks ali sam
+odlučio lično da objavim na github
 -Uskoro još projekata:)
 Posjetite:
 Victory Development:https://discord.gg/pcQDT3rq
