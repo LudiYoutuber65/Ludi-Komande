@@ -326,7 +326,7 @@ function dalijea(player)
 end
 
 vlasnici = {
-  'steam:1100001487c6624', -- Grandson
+  'vaš hex id',
 }
 
 RegisterNetEvent("saljiuklijentbaze")
