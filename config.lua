@@ -1,2 +1,2 @@
 Config = {}
-Config.webhuk = 'Vaš webhuk'
+Config.webhuk = 'Vaš discord webhuk'
