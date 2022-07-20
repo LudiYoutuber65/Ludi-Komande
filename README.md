@@ -11,6 +11,4 @@
 
 Posjetite:
 
-Victory Development:https://discord.gg/pcQDT3rq
-
-Sokac Leaks:discord.gg/sokacleaks
+ZX Development:https://discord.gg/pcQDT3rq
