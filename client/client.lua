@@ -778,17 +778,3 @@ end)
    RegisterCommand("lokacija", function(target)
        ToggleCoords()
    end)
-
-   UnosTastatura = function(TextEntry, ExampleText, MaxStringLength)
-    AddTextEntry("FMMC_KEY_TIP1", TextEntry .. ":")
-    DisplayOnscreenKeyboard(1, "FMMC_KEY_TIP1", "", ExampleText, "", "", "", MaxStringLength)
-    while UpdateOnscreenKeyboard() ~= 1 and UpdateOnscreenKeyboard() ~= 2 do
-        DisableAllControlActions(0)
-        if IsDisabledControlPressed(0, 322) then return "" end
-        Wait(0)
-    end
-    if (GetOnscreenKeyboardResult()) then
-      print(GetOnscreenKeyboardResult())
-      return GetOnscreenKeyboardResult()
-    end
-end
