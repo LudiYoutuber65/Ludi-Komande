@@ -12,3 +12,5 @@
 Posjetite:
 
 ZX Development:https://discord.gg/5Ns95eDxQu
+
+zx Leaks:https://discord.gg/RnaNNmrG
