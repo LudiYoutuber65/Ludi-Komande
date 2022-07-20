@@ -11,4 +11,4 @@
 
 Posjetite:
 
-ZX Development:https://discord.gg/pcQDT3rq
+ZX Development:https://discord.gg/5Ns95eDxQu
